@@ -52,15 +52,7 @@ opacity:85%;
     border-right: 190px solid transparent;
     border-bottom: 550px solid #C51808;
     transform: rotate(-50deg);
-    animation: one 5s infinite;
-}
-
-
-@keyframes one {
-  0% {opacity: 0; background-color:var(--red);}
-  50% {opacity: 0.5; background-color: var(--green);}
-  100% {opacity: 1; background-color: var(--red);}
-}
+  }
 
 .f4{
   position: absolute;
